@@ -1,0 +1,20 @@
+{
+  "cash": 1013.9682400069911,
+  "qty": 0.0,
+  "entry_fill": 0.0,
+  "entry_allocation": 0.0,
+  "entry_signal_ts": 0,
+  "pos_peak": 0.0,
+  "last_processed_ts": 1791941220000,
+  "cooldown_ts": 1791217740000,
+  "day": "2026-10-14",
+  "day_equity": 1013.9682400069911,
+  "halt_today": false,
+  "peak_equity": 1025.1466393567125,
+  "frozen": false,
+  "num_closed_trades": 8,
+  "realized_pnl": 13.968240006991095,
+  "last_close_ret_pct": -0.9516618880977126,
+  "entry_is_calm": false,
+  "behavior_state": "CALM_ACCUMULATION"
+}

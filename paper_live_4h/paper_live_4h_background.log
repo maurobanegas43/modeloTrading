@@ -1,0 +1,112 @@
+======================================================================
+MODO: PAPER TRADING EN VIVO v5.0 (SIN CLAVES API)
+Inicio UTC: 2026-10-15T16:40:01.655146+00:00 | Duración objetivo: 14400s
+Par: BTCUSDT | Capital actual: $1000.00 USDT
+Estrategia: ensamble regularizado + VPIN/BOCPD + Trailing (1.5% -> 1.0%)
+Señales virtuales: HABILITADAS (gate OOS aprobado)
+======================================================================
+Historial sincronizado (CSV + Binance REST): 6,500 velas hasta 2026-10-15T16:39:00+00:00.
+Conectando al stream paper configurado; escuchando cotizaciones y velas cerradas...
+[16:40:00] BTC: $82,045.36 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.578 (ACI:0.400) | VPIN:0.150 | BOCPD:0.042 | sin operación
+[16:41:00] BTC: $82,070.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.576 (ACI:0.400) | VPIN:0.150 | BOCPD:0.042 | sin operación
+[16:42:00] BTC: $82,046.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.574 (ACI:0.400) | VPIN:0.150 | BOCPD:0.042 | sin operación
+[16:43:00] BTC: $82,054.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.572 (ACI:0.400) | VPIN:0.150 | BOCPD:0.042 | sin operación
+[16:44:00] BTC: $82,117.53 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.568 (ACI:0.400) | VPIN:0.150 | BOCPD:0.042 | sin operación
+[16:45:00] BTC: $82,240.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.565 (ACI:0.400) | VPIN:0.150 | BOCPD:0.042 | sin operación
+[16:46:00] BTC: $82,200.91 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.562 (ACI:0.400) | VPIN:0.150 | BOCPD:0.042 | sin operación
+[16:47:00] BTC: $82,194.01 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.563 (ACI:0.400) | VPIN:0.150 | BOCPD:0.042 | sin operación
+[16:48:00] BTC: $82,188.87 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.562 (ACI:0.400) | VPIN:0.150 | BOCPD:0.042 | sin operación
+[16:49:00] BTC: $82,218.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.564 (ACI:0.400) | VPIN:0.150 | BOCPD:0.042 | sin operación
+Conexión Binance interrumpida (ConnectionClosedError): no close frame received or sent. Reconectando en 2s...
+Conectando al stream paper configurado; escuchando cotizaciones y velas cerradas...
+Conexión Binance interrumpida (ConnectionClosedError): no close frame received or sent. Reconectando en 2s...
+Conectando al stream paper configurado; escuchando cotizaciones y velas cerradas...
+Conexión Binance interrumpida (ConnectionClosedError): no close frame received or sent. Reconectando en 2s...
+Conectando al stream paper configurado; escuchando cotizaciones y velas cerradas...
+AVISO: hueco detectado (2026-10-15T16:49:00+00:00 -> 2026-10-15T17:49:00+00:00); sincronizando vía REST...
+[17:49:00] BTC: $82,482.82 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.699 (ACI:0.400) | VPIN:0.160 | BOCPD:0.077 | sin operación
+[17:50:00] BTC: $82,462.44 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.700 (ACI:0.400) | VPIN:0.160 | BOCPD:0.077 | sin operación
+Conexión Binance interrumpida (ConnectionClosedError): no close frame received or sent. Reconectando en 2s...
+Conectando al stream paper configurado; escuchando cotizaciones y velas cerradas...
+Conexión Binance interrumpida (ConnectionClosedError): no close frame received or sent. Reconectando en 2s...
+Conectando al stream paper configurado; escuchando cotizaciones y velas cerradas...
+AVISO: hueco detectado (2026-10-15T17:50:00+00:00 -> 2026-10-15T18:33:00+00:00); sincronizando vía REST...
+[18:33:00] BTC: $82,282.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.704 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:34:00] BTC: $82,263.46 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.704 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:35:00] BTC: $82,280.02 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.704 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:36:00] BTC: $82,265.86 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.704 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:37:00] BTC: $82,284.27 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.704 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:38:00] BTC: $82,265.86 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.704 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:39:00] BTC: $82,246.13 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.704 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:40:00] BTC: $82,231.02 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.704 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:41:00] BTC: $82,247.09 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.704 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:42:00] BTC: $82,264.01 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.704 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:43:00] BTC: $82,314.88 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.705 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:44:00] BTC: $82,323.58 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.704 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:45:00] BTC: $82,326.57 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.705 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:46:00] BTC: $82,338.81 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.704 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:47:00] BTC: $82,322.23 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.705 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:48:00] BTC: $82,344.72 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.706 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:49:00] BTC: $82,356.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.705 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:50:00] BTC: $82,346.46 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.705 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:51:00] BTC: $82,347.86 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.705 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:52:00] BTC: $82,356.36 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.705 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:53:00] BTC: $82,372.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.705 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:54:00] BTC: $82,355.99 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.705 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:55:00] BTC: $82,350.60 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.704 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:56:00] BTC: $82,354.01 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.705 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:57:00] BTC: $82,393.11 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.704 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:58:00] BTC: $82,392.82 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.705 (ACI:0.400) | VPIN:0.143 | BOCPD:0.042 | sin operación
+[18:59:00] BTC: $82,409.99 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.692 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:00:00] BTC: $82,429.42 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.692 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:01:00] BTC: $82,434.90 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.692 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:02:00] BTC: $82,464.95 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.691 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:03:00] BTC: $82,476.01 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.691 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:04:00] BTC: $82,476.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.691 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:05:00] BTC: $82,506.90 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.691 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:06:00] BTC: $82,515.86 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.690 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:07:00] BTC: $82,474.28 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.691 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:08:00] BTC: $82,478.70 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.692 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:09:00] BTC: $82,444.40 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.692 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:10:00] BTC: $82,446.03 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.692 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:11:00] BTC: $82,444.30 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.692 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:12:00] BTC: $82,469.62 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.692 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:13:00] BTC: $82,469.62 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.692 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:14:00] BTC: $82,475.58 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.693 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:15:00] BTC: $82,531.53 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.692 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:16:00] BTC: $82,530.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.692 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:17:00] BTC: $82,515.75 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.693 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:18:00] BTC: $82,552.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.692 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:19:00] BTC: $82,581.68 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.692 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:20:00] BTC: $82,577.54 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.692 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:21:00] BTC: $82,582.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.693 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:22:00] BTC: $82,568.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.692 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:23:00] BTC: $82,556.01 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.692 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:24:00] BTC: $82,580.40 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.691 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:25:00] BTC: $82,529.85 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.692 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:26:00] BTC: $82,562.58 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.691 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:27:00] BTC: $82,528.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.693 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:28:00] BTC: $82,542.01 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.692 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:29:00] BTC: $82,498.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.693 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:30:00] BTC: $82,430.22 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.696 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:31:00] BTC: $82,444.51 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.696 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:32:00] BTC: $82,440.61 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.695 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:33:00] BTC: $82,466.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.696 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:34:00] BTC: $82,406.01 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.697 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:35:00] BTC: $82,364.97 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.698 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:36:00] BTC: $82,391.78 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.697 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:37:00] BTC: $82,370.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.698 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:38:00] BTC: $82,397.84 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.697 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:39:00] BTC: $82,411.71 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.697 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:40:00] BTC: $82,424.56 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.696 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:41:00] BTC: $82,434.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.696 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:42:00] BTC: $82,448.89 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.695 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:43:00] BTC: $82,423.92 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.696 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:44:00] BTC: $82,411.21 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.696 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:45:00] BTC: $82,426.73 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.694 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:46:00] BTC: $82,450.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.694 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:47:00] BTC: $82,452.09 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.694 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:48:00] BTC: $82,451.95 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.694 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:49:00] BTC: $82,452.13 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.693 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:50:00] BTC: $82,424.01 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.693 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación
+[19:51:00] BTC: $82,434.00 | Pos: CASH       | Eq: $1,000.00 | P(MacroHFT): 0.693 (ACI:0.400) | VPIN:0.148 | BOCPD:0.044 | sin operación

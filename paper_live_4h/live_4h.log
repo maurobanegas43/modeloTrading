@@ -1,0 +1,258 @@
+/Users/maurobanegas43/Documents/binance_ml_paper_trader/.venv/lib/python3.9/site-packages/joblib/_multiprocessing_helpers.py:46: UserWarning: [Errno 1] Operation not permitted.  joblib will operate in serial mode
+  warnings.warn('%s.  joblib will operate in serial mode' % (e,))
+======================================================================
+MODO: PAPER TRADING EN VIVO v3.0 (BINANCE SPOT PUBLIC STREAM / SIN CLAVES API)
+Inicio UTC: 2026-10-14T12:24:49.276702+00:00 | Duración objetivo: 14400s
+Par: BTCUSDT | Capital actual: $1000.00 USDT
+Estrategia: Multi-Scale 1h Macro Breakout + Trailing (1.5% -> 1.0%)
+Señales virtuales: HABILITADAS (Paper Gate OOS Aprobado)
+======================================================================
+Historial sincronizado (CSV + Binance REST): 6,500 velas hasta 2026-10-14T12:23:00+00:00.
+WebSocket Binance conectado exitosamente (wss://stream.binance.com:9443/stream?streams=btcusdt@bookTicker/btcusdt@kline_1m); escuchando bookTicker y kline_1m en tiempo real...
+[12:24:00] BTC: $83,661.72 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.389 | P(SGD): 0.002 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:25:00] BTC: $83,692.13 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.390 | P(SGD): 0.002 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:26:00] BTC: $83,730.78 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.390 | P(SGD): 0.003 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:27:00] BTC: $83,771.38 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.390 | P(SGD): 0.002 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:28:00] BTC: $83,764.09 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.390 | P(SGD): 0.003 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:29:00] BTC: $83,860.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.396 | P(SGD): 0.005 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:30:00] BTC: $82,929.06 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.346 | P(SGD): 0.000 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:31:00] BTC: $83,132.41 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.357 | P(SGD): 0.000 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:32:00] BTC: $82,880.63 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.344 | P(SGD): 0.000 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:33:00] BTC: $82,864.33 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.344 | P(SGD): 0.000 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:34:00] BTC: $82,871.11 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.346 | P(SGD): 0.000 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:35:00] BTC: $82,789.29 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.345 | P(SGD): 0.000 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:36:00] BTC: $82,852.13 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.347 | P(SGD): 0.000 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:37:00] BTC: $82,828.58 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.346 | P(SGD): 0.000 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:38:00] BTC: $82,826.11 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.345 | P(SGD): 0.000 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:39:00] BTC: $82,832.90 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.347 | P(SGD): 0.000 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:40:00] BTC: $82,793.36 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.344 | P(SGD): 0.000 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:41:00] BTC: $82,709.09 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.339 | P(SGD): 0.000 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:42:00] BTC: $82,769.18 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.340 | P(SGD): 0.000 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:43:00] BTC: $82,751.51 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.339 | P(SGD): 0.000 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:44:00] BTC: $82,846.69 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.339 | P(SGD): 0.000 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:45:00] BTC: $82,897.42 (Sprd: 0.06bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.390 | P(SGD): 0.003 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:46:00] BTC: $82,800.75 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.373 | P(SGD): 0.000 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:47:00] BTC: $82,894.39 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.394 | P(SGD): 0.004 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:48:00] BTC: $82,872.73 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.393 | P(SGD): 0.004 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:49:00] BTC: $82,939.02 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.398 | P(SGD): 0.006 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:50:00] BTC: $82,961.32 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.410 | P(SGD): 0.015 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:51:00] BTC: $83,057.08 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.413 | P(SGD): 0.020 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:52:00] BTC: $82,962.65 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.406 | P(SGD): 0.011 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:53:00] BTC: $82,903.85 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.399 | P(SGD): 0.007 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:54:00] BTC: $82,951.93 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.404 | P(SGD): 0.010 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:55:00] BTC: $82,906.22 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.404 | P(SGD): 0.009 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:56:00] BTC: $82,864.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.408 | P(SGD): 0.013 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:57:00] BTC: $82,887.48 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.404 | P(SGD): 0.010 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:58:00] BTC: $82,756.39 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.393 | P(SGD): 0.004 | Macro: +15.4bps | RSI1h: 51.6 | sin operación
+[12:59:00] BTC: $82,743.75 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.383 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:00:00] BTC: $82,743.89 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.380 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:01:00] BTC: $82,789.03 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.384 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:02:00] BTC: $82,798.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.383 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:03:00] BTC: $82,814.97 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.383 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:04:00] BTC: $82,770.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.379 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:05:00] BTC: $82,734.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.376 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:06:00] BTC: $82,702.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.369 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:07:00] BTC: $82,692.40 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.374 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:08:00] BTC: $82,696.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.377 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:09:00] BTC: $82,738.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.377 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:10:00] BTC: $82,780.96 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.382 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:11:00] BTC: $82,760.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.383 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:12:00] BTC: $82,603.06 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.373 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:13:00] BTC: $82,533.33 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.376 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:14:00] BTC: $82,407.49 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.370 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:15:00] BTC: $82,510.93 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.376 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:16:00] BTC: $82,545.42 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.375 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:17:00] BTC: $82,573.93 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.376 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:18:00] BTC: $82,444.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.369 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:19:00] BTC: $82,410.12 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.369 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:20:00] BTC: $82,375.65 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.369 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:21:00] BTC: $82,411.51 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.373 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:22:00] BTC: $82,486.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.377 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:23:00] BTC: $82,472.17 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.376 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:24:00] BTC: $82,499.50 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.375 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:25:00] BTC: $82,586.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.378 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:26:00] BTC: $82,589.78 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.379 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:27:00] BTC: $82,592.61 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.384 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:28:00] BTC: $82,603.06 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.390 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:29:00] BTC: $82,661.52 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.408 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:30:00] BTC: $82,830.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.412 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:31:00] BTC: $82,908.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.415 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:32:00] BTC: $82,830.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.408 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:33:00] BTC: $82,918.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.424 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:34:00] BTC: $82,863.06 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.422 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:35:00] BTC: $82,848.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.424 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:36:00] BTC: $82,958.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.429 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:37:00] BTC: $82,906.99 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.420 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:38:00] BTC: $83,002.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.428 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:39:00] BTC: $82,997.99 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.425 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:40:00] BTC: $82,936.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.414 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:41:00] BTC: $82,950.36 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.415 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:42:00] BTC: $82,916.81 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.413 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:43:00] BTC: $82,952.38 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.414 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:44:00] BTC: $82,882.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.404 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:45:00] BTC: $82,872.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.388 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:46:00] BTC: $82,912.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.385 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:47:00] BTC: $83,048.83 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.404 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:48:00] BTC: $83,072.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.398 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:49:00] BTC: $83,012.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.398 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:50:00] BTC: $82,941.31 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.393 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:51:00] BTC: $82,918.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.383 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:52:00] BTC: $82,780.80 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.381 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:53:00] BTC: $82,809.02 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.378 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:54:00] BTC: $82,788.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.377 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:55:00] BTC: $82,738.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.377 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:56:00] BTC: $82,650.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.372 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:57:00] BTC: $82,535.69 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.368 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:58:00] BTC: $82,416.82 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.361 | P(SGD): 1.000 | Macro: +13.9bps | RSI1h: 38.1 | sin operación
+[13:59:00] BTC: $82,324.16 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.445 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:00:00] BTC: $82,412.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.452 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:01:00] BTC: $82,458.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.452 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:02:00] BTC: $82,406.52 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.439 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:03:00] BTC: $82,334.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.433 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:04:00] BTC: $82,246.10 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.431 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:05:00] BTC: $82,288.98 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.438 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:06:00] BTC: $82,243.66 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.437 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:07:00] BTC: $82,275.05 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.448 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:08:00] BTC: $82,272.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.446 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:09:00] BTC: $82,294.22 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.449 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:10:00] BTC: $82,262.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.451 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:11:00] BTC: $82,078.50 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.444 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:12:00] BTC: $82,080.88 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.452 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:13:00] BTC: $82,022.09 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.456 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:14:00] BTC: $82,118.09 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.471 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:15:00] BTC: $82,169.68 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.468 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:16:00] BTC: $82,163.27 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.464 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:17:00] BTC: $82,092.15 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.462 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:18:00] BTC: $82,019.69 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.462 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:19:00] BTC: $81,984.49 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.466 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:20:00] BTC: $81,958.51 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.461 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:21:00] BTC: $82,026.33 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.470 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:22:00] BTC: $82,022.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.467 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:23:00] BTC: $82,025.56 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.468 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:24:00] BTC: $82,083.92 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.471 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:25:00] BTC: $82,056.78 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.471 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:26:00] BTC: $81,966.77 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.478 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:27:00] BTC: $81,977.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.479 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:28:00] BTC: $81,980.09 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.482 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:29:00] BTC: $82,053.94 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.481 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:30:00] BTC: $82,046.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.477 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:31:00] BTC: $82,033.68 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.477 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:32:00] BTC: $82,048.25 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.482 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:33:00] BTC: $82,018.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.484 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:34:00] BTC: $82,074.71 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.494 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:35:00] BTC: $82,005.79 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.490 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:36:00] BTC: $81,944.82 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.481 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:37:00] BTC: $81,917.67 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.479 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:38:00] BTC: $81,910.54 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.478 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:39:00] BTC: $81,867.99 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.470 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:40:00] BTC: $81,933.29 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.477 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:41:00] BTC: $81,888.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.481 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:42:00] BTC: $81,902.82 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.481 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:43:00] BTC: $81,851.33 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.477 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:44:00] BTC: $81,850.09 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.471 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:45:00] BTC: $81,867.05 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.473 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:46:00] BTC: $81,922.67 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.478 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:47:00] BTC: $81,943.36 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.479 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:48:00] BTC: $81,911.34 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.479 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:49:00] BTC: $81,783.65 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.464 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:50:00] BTC: $81,759.24 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.468 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:51:00] BTC: $81,829.21 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.478 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:52:00] BTC: $81,774.19 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.476 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:53:00] BTC: $81,744.56 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.474 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:54:00] BTC: $81,738.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.477 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:55:00] BTC: $81,818.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.478 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:56:00] BTC: $81,820.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.481 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:57:00] BTC: $81,854.58 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.481 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:58:00] BTC: $81,883.86 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.488 | P(SGD): 1.000 | Macro: +11.4bps | RSI1h: 32.8 | sin operación
+[14:59:00] BTC: $81,975.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.425 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:00:00] BTC: $81,900.14 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.415 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:01:00] BTC: $81,800.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.408 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:02:00] BTC: $81,805.47 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.407 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:03:00] BTC: $81,803.32 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.409 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:04:00] BTC: $81,862.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.419 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:05:00] BTC: $81,869.75 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.423 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:06:00] BTC: $81,854.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.415 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:07:00] BTC: $81,754.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.412 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:08:00] BTC: $81,666.67 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.411 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:09:00] BTC: $81,791.58 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.417 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:10:00] BTC: $81,744.07 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.411 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:11:00] BTC: $81,723.55 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.410 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:12:00] BTC: $81,718.13 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.407 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:13:00] BTC: $81,813.78 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.410 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:14:00] BTC: $81,860.03 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.409 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:15:00] BTC: $81,972.37 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.418 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:16:00] BTC: $81,982.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.430 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:17:00] BTC: $82,062.76 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.437 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:18:00] BTC: $82,088.25 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.439 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:19:00] BTC: $81,968.63 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.423 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:20:00] BTC: $81,966.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.422 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:21:00] BTC: $81,926.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.418 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:22:00] BTC: $81,880.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.425 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:23:00] BTC: $81,840.11 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.429 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:24:00] BTC: $81,910.03 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.424 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:25:00] BTC: $81,944.85 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.432 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:26:00] BTC: $81,926.59 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.432 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:27:00] BTC: $81,988.02 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.438 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:28:00] BTC: $81,958.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.426 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:29:00] BTC: $81,959.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.422 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:30:00] BTC: $81,907.16 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.410 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:31:00] BTC: $81,922.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.411 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:32:00] BTC: $81,864.86 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.403 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:33:00] BTC: $81,897.17 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.404 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+[15:34:00] BTC: $81,853.98 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.409 | P(SGD): 1.000 | Macro: +8.1bps | RSI1h: 29.1 | sin operación
+Conexión Binance interrumpida (ConnectionClosedError): sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconectando en 2s...
+WebSocket Binance conectado exitosamente (wss://stream.binance.com:9443/stream?streams=btcusdt@bookTicker/btcusdt@kline_1m); escuchando bookTicker y kline_1m en tiempo real...
+AVISO: hueco detectado (2026-10-14T15:34:00+00:00 -> 2026-10-14T15:37:00+00:00); sincronizando vía REST...
+[15:37:00] BTC: $81,840.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.411 | P(SGD): 1.000 | Macro: +7.8bps | RSI1h: 29.1 | sin operación
+Conexión Binance interrumpida (ConnectionClosedError): sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconectando en 2s...
+WebSocket Binance conectado exitosamente (wss://stream.binance.com:9443/stream?streams=btcusdt@bookTicker/btcusdt@kline_1m); escuchando bookTicker y kline_1m en tiempo real...
+Conexión Binance interrumpida (ConnectionClosedError): sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconectando en 2s...
+WebSocket Binance conectado exitosamente (wss://stream.binance.com:9443/stream?streams=btcusdt@bookTicker/btcusdt@kline_1m); escuchando bookTicker y kline_1m en tiempo real...
+AVISO: hueco detectado (2026-10-14T15:37:00+00:00 -> 2026-10-14T15:40:00+00:00); sincronizando vía REST...
+[15:40:00] BTC: $81,870.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.411 | P(SGD): 1.000 | Macro: +7.8bps | RSI1h: 29.1 | sin operación
+Conexión Binance interrumpida (ConnectionClosedError): sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconectando en 2s...
+WebSocket Binance conectado exitosamente (wss://stream.binance.com:9443/stream?streams=btcusdt@bookTicker/btcusdt@kline_1m); escuchando bookTicker y kline_1m en tiempo real...
+AVISO: hueco detectado (2026-10-14T15:40:00+00:00 -> 2026-10-14T15:42:00+00:00); sincronizando vía REST...
+[15:42:00] BTC: $81,738.33 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.400 | P(SGD): 1.000 | Macro: +7.8bps | RSI1h: 29.1 | sin operación
+[15:43:00] BTC: $81,715.99 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.400 | P(SGD): 1.000 | Macro: +7.8bps | RSI1h: 29.1 | sin operación
+[15:44:00] BTC: $81,692.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.399 | P(SGD): 1.000 | Macro: +7.8bps | RSI1h: 29.1 | sin operación
+Conexión Binance interrumpida (ConnectionClosedError): sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconectando en 2s...
+Conexión Binance interrumpida (TimeoutError): timed out during handshake. Reconectando en 4s...
+Conexión Binance interrumpida (TimeoutError): timed out during handshake. Reconectando en 8s...
+Conexión Binance interrumpida (TimeoutError): timed out during handshake. Reconectando en 16s...
+Conexión Binance interrumpida (TimeoutError): timed out during handshake. Reconectando en 32s...
+WebSocket Binance conectado exitosamente (wss://stream.binance.com:9443/stream?streams=btcusdt@bookTicker/btcusdt@kline_1m); escuchando bookTicker y kline_1m en tiempo real...
+Conexión Binance interrumpida (ConnectionClosedError): no close frame received or sent. Reconectando en 2s...
+WebSocket Binance conectado exitosamente (wss://stream.binance.com:9443/stream?streams=btcusdt@bookTicker/btcusdt@kline_1m); escuchando bookTicker y kline_1m en tiempo real...
+AVISO: hueco detectado (2026-10-14T15:44:00+00:00 -> 2026-10-14T15:53:00+00:00); sincronizando vía REST...
+[15:53:00] BTC: $81,752.88 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.409 | P(SGD): 1.000 | Macro: +7.8bps | RSI1h: 29.1 | sin operación
+[15:54:00] BTC: $81,762.24 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.405 | P(SGD): 1.000 | Macro: +7.8bps | RSI1h: 29.1 | sin operación
+[15:55:00] BTC: $81,732.12 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.407 | P(SGD): 1.000 | Macro: +7.8bps | RSI1h: 29.1 | sin operación
+[15:56:00] BTC: $81,640.96 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.409 | P(SGD): 1.000 | Macro: +7.8bps | RSI1h: 29.1 | sin operación
+[15:57:00] BTC: $81,660.50 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.411 | P(SGD): 1.000 | Macro: +7.8bps | RSI1h: 29.1 | sin operación
+[15:58:00] BTC: $81,645.13 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.411 | P(SGD): 1.000 | Macro: +7.8bps | RSI1h: 29.1 | sin operación
+[15:59:00] BTC: $81,641.44 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.403 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:00:00] BTC: $81,700.06 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.404 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:01:00] BTC: $81,680.30 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.402 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:02:00] BTC: $81,643.85 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.398 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:03:00] BTC: $81,681.45 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.403 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:04:00] BTC: $81,679.85 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.401 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:05:00] BTC: $81,730.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.403 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:06:00] BTC: $81,747.45 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.406 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:07:00] BTC: $81,789.69 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.419 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:08:00] BTC: $81,740.01 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.405 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:09:00] BTC: $81,766.03 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.406 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:10:00] BTC: $81,700.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.404 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:11:00] BTC: $81,651.20 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.407 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:12:00] BTC: $81,634.65 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.405 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:13:00] BTC: $81,656.31 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.407 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:14:00] BTC: $81,626.27 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.404 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:15:00] BTC: $81,706.58 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.407 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:16:00] BTC: $81,657.31 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.405 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:17:00] BTC: $81,613.69 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.404 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:18:00] BTC: $81,634.95 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.403 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:19:00] BTC: $81,675.48 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.405 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:20:00] BTC: $81,655.43 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.404 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:21:00] BTC: $81,600.00 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.399 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:22:00] BTC: $81,604.14 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.396 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación
+[16:23:00] BTC: $81,630.51 (Sprd: 0.00bps) | Pos: CASH       | Eq: $1,000.00 | P(Ens): 0.402 | P(SGD): 1.000 | Macro: +3.9bps | RSI1h: 26.1 | sin operación

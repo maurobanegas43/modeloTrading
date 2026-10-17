@@ -1,0 +1,15 @@
+{
+  "status": "running",
+  "model": "USDⓈ-M directional v2",
+  "paper_pid": 60023,
+  "dashboard_sync_pid": 60024,
+  "started_utc": "2026-10-15T19:53:35.878560+00:00",
+  "target_end_utc": "2026-10-15T23:53:35.878560+00:00",
+  "duration_sec": 14400,
+  "live_log": "paper_futures_live/live_futures.log",
+  "dashboard_sync_log": "paper_futures_live/dashboard_sync.log",
+  "first_status_utc": "2026-10-15T19:53:39.797006+00:00",
+  "restarted_utc": "2026-10-15T20:01:02.114911+00:00",
+  "remaining_duration_sec": 13954,
+  "restart_reason": "migración a Binance /public y /market streams"
+}

@@ -1,0 +1,20 @@
+{
+  "cash": 1000.0,
+  "qty": 0.0,
+  "entry_fill": 0.0,
+  "entry_allocation": 0.0,
+  "entry_signal_ts": 0,
+  "pos_peak": 0.0,
+  "last_processed_ts": 1792093860000,
+  "cooldown_ts": 0,
+  "day": "2026-10-15",
+  "day_equity": 1000.0,
+  "halt_today": false,
+  "peak_equity": 1000.0,
+  "frozen": false,
+  "num_closed_trades": 0,
+  "realized_pnl": 0.0,
+  "last_close_ret_pct": 0.0,
+  "entry_is_calm": false,
+  "behavior_state": "CALM_ACCUMULATION"
+}

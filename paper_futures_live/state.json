@@ -1,0 +1,21 @@
+{
+  "balance": 1000.0,
+  "side": 0,
+  "qty": 0.0,
+  "entry_price": 0.0,
+  "entry_notional": 0.0,
+  "initial_margin": 0.0,
+  "entry_time": 0,
+  "best_price": 0.0,
+  "entry_fee": 0.0,
+  "position_funding_pnl": 0.0,
+  "realized_pnl": 0.0,
+  "num_closed_trades": 0,
+  "peak_equity": 1000.0,
+  "day": "2026-10-15",
+  "day_equity": 1000.0,
+  "halt_today": false,
+  "frozen": false,
+  "last_processed_ts": 1792108740000,
+  "last_action": "FLAT"
+}

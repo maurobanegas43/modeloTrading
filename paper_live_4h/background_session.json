@@ -1,0 +1,18 @@
+{
+  "status": "stopped_superseded_by_usdm_model",
+  "started_utc": "2026-10-15T16:40:00.159713+00:00",
+  "duration_sec": 14400,
+  "paper_pid": 47447,
+  "dashboard_sync_pid": 47448,
+  "simulation_log": "paper_live_4h_background.log",
+  "dashboard_sync_log": "dashboard_sync_background.log",
+  "summary": "live_status.json",
+  "target_end_utc": "2026-10-15T20:40:01.655146+00:00",
+  "last_checked_utc": "2026-10-15T16:41:27.193935+00:00",
+  "last_bar_utc": "2026-10-15T16:40:00+00:00",
+  "bars_processed": 1,
+  "last_price": 82045.36,
+  "dashboard_data_mtime_utc": "2026-10-15T16:41:26.107728+00:00",
+  "entry_block_reason": "sin trigger de r\u00e9gimen/momentum",
+  "stopped_utc": "2026-10-15T19:52:54.348541+00:00"
+}

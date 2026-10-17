@@ -1,0 +1,16 @@
+{"type": "PAPER_BUY", "at": "2026-09-18T15:00:00+00:00", "fill": 80962.111349, "allocation": 380.5707952645857, "champion_p": 0.5236415905291715, "challenger_p": 1.5643888464034622e-28, "aci_threshold": 0.4}
+{"type": "PAPER_SELL", "at": "2026-09-19T14:59:00+00:00", "fill": 81561.534197, "proceeds": 382.62205098493695, "pnl": 2.0512557203512642, "ret_pct": 0.5389945171502616, "reason": "horizon"}
+{"type": "PAPER_BUY", "at": "2026-09-21T01:00:00+00:00", "fill": 81632.202316, "allocation": 447.8435597478758, "champion_p": 0.4784343278734246, "challenger_p": 0.9998368458693495, "aci_threshold": 0.3899580607755946}
+{"type": "PAPER_SELL", "at": "2026-09-21T08:38:00+00:00", "fill": 82925.115, "proceeds": 454.0272076786544, "pnl": 6.183647930778591, "ret_pct": 1.380760713464278, "reason": "trailing_stop"}
+{"type": "PAPER_BUY", "at": "2026-09-21T10:00:00+00:00", "fill": 84679.09611, "allocation": 382.7392205778993, "champion_p": 0.5057838287038967, "challenger_p": 0.9999999999996816, "aci_threshold": 0.38}
+{"type": "PAPER_SELL", "at": "2026-09-21T22:25:00+00:00", "fill": 86495.75678601001, "proceeds": 390.16879633318047, "pnl": 7.429575755281178, "ret_pct": 1.9411587200452662, "reason": "trailing_stop"}
+{"type": "PAPER_BUY", "at": "2026-09-27T07:00:00+00:00", "fill": 84537.043507, "allocation": 531.5554256260627, "champion_p": 0.39725318676918364, "challenger_p": 0.0013952136115119498, "aci_threshold": 0.38}
+{"type": "PAPER_SELL", "at": "2026-09-27T10:19:00+00:00", "fill": 84989.9941823504, "proceeds": 533.3352345076031, "pnl": 1.7798088815403617, "ret_pct": 0.33483034801951533, "reason": "trailing_stop"}
+{"type": "PAPER_BUY", "at": "2026-10-01T19:00:00+00:00", "fill": 84827.46060600001, "allocation": 364.66223754226024, "champion_p": 0.46196406129647627, "challenger_p": 0.9871256075915478, "aci_threshold": 0.38}
+{"type": "PAPER_SELL", "at": "2026-10-02T05:37:00+00:00", "fill": 86017.80941325, "proceeds": 369.04020348162834, "pnl": 4.377965939368096, "ret_pct": 1.200553687399765, "reason": "trailing_stop"}
+{"type": "PAPER_BUY", "at": "2026-10-02T13:00:00+00:00", "fill": 86836.053003, "allocation": 340.0403709873105, "champion_p": 0.4089920188620247, "challenger_p": 0.9999970420180815, "aci_threshold": 0.38}
+{"type": "PAPER_SELL", "at": "2026-10-02T14:34:00+00:00", "fill": 85768.28216085391, "proceeds": 335.1877162314617, "pnl": -4.852654755848789, "ret_pct": -1.427081949639997, "reason": "stop_loss"}
+{"type": "PAPER_BUY", "at": "2026-10-04T17:00:00+00:00", "fill": 85399.6122, "allocation": 546.8354676433648, "champion_p": 0.4157930286933841, "challenger_p": 0.023810302511914464, "aci_threshold": 0.38}
+{"type": "PAPER_SELL", "at": "2026-10-04T21:11:00+00:00", "fill": 85914.208003, "proceeds": 549.030844653471, "pnl": 2.195377010106199, "ret_pct": 0.40146938887621314, "reason": "trailing_stop"}
+{"type": "PAPER_BUY", "at": "2026-10-04T22:00:00+00:00", "fill": 85891.18962899999, "allocation": 546.069621950882, "champion_p": 0.4133263022962582, "challenger_p": 0.9524596821072929, "aci_threshold": 0.38}
+{"type": "PAPER_SELL", "at": "2026-10-05T15:59:00+00:00", "fill": 85244.199066, "proceeds": 540.8728854762962, "pnl": -5.196736474585805, "ret_pct": -0.9516618880977126, "reason": "trend_exit"}
